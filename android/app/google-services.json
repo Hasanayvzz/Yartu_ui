@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "844429918601",
+    "project_id": "yartu-8f52e",
+    "storage_bucket": "yartu-8f52e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844429918601:android:3a72294e13cf5f3ce5e158",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844429918601-cimp2agve8ebohvfbikimalgsofqmovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6vVqdf86Rw_aKgy52AgZ75fGu4-Vc8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844429918601-cimp2agve8ebohvfbikimalgsofqmovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844429918601:android:e2d9c9434236f96de5e158",
+        "android_client_info": {
+          "package_name": "com.example.yartu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844429918601-cimp2agve8ebohvfbikimalgsofqmovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6vVqdf86Rw_aKgy52AgZ75fGu4-Vc8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844429918601-cimp2agve8ebohvfbikimalgsofqmovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
